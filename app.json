@@ -15,7 +15,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "io.github.JVAlencartutoexponotification",
+      "package": "io.github.JVAlencar.tutoexponotification",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
